@@ -6,6 +6,8 @@
 #Camilli Honorato
 #2-53 - Cedup - Cedup Curso Técnico em Informática
 #Feito em: 20/09/2024
+#Este programa foi feito por disposição própria e não pelo curso. Estou aplicando o conhecimento do curso juntamente
+#com pesquisas online.
 
 n1 = int(input("Informe um numero inteiro: "))
 n2 = int(input("Informe mais um numero inteiro: "))
