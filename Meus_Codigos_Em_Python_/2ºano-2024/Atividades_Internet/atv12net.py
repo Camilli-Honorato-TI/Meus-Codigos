@@ -4,6 +4,8 @@
 #Camilli Honorato
 #2-53 - Cedup Curso Técnico em Informática
 #Feito em: 20/09/2024
+#Este programa foi feito por disposição própria e não pelo curso. Estou aplicando o conhecimento do curso juntamente
+#com pesquisas online.
 
 altura = float(input("Informe a altura: "))
 
